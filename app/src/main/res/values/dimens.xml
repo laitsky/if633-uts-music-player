@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text">32sp</dimen>
+    <dimen name="logo_hero_size">175dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="media_control">64dp</dimen>
+</resources>

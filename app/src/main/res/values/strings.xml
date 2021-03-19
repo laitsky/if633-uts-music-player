@@ -1,0 +1,42 @@
+<resources>
+    <!-- MainActivity strings -->
+    <string name="app_name">MusicQ</string>
+    <string name="activity_main_music_player">MusicQ</string>
+    <string name="activity_main_logo_music_player">Logo Music Player</string>
+    <string name="activity_main_profil">PROFIL</string>
+    <string name="activity_main_login">LOGIN</string>
+
+    <!-- LoginActivity strings -->
+    <string name="activity_login_header">Masuk ke akun Anda</string>
+    <string name="activity_login_btn_login">Masuk</string>
+    <string name="activity_login_username">Username</string>
+    <string name="activity_login_password">Password</string>
+    <string name="title_activity_playlist">List Lagu</string>
+
+    <!-- ProfilActivity strings -->
+    <string name="tv_nim">NIM</string>
+    <string name="tv_nama">Nama</string>
+    <string name="tv_kelas">Kelas</string>
+    <string name="my_nim">:  00000027047</string>
+    <string name="my_name">:  Vincent Diamond</string>
+    <string name="my_kelas">:  AL</string>
+    <string name="referensi">Referensi:</string>
+    <string name="ref1">Programmity Music Player Tutorial (YouTube)</string>
+    <string name="ref2">Android Official Storage Documentation</string>
+    <string name="ref3">StackOverflow Android Drawables Questions</string>
+    <string name="playlist_menu_profil">Profil</string>
+    <string name="playlist_menu_logout">Logout</string>
+    <string name="activity_player_nama_lagu">Nama Lagu</string>
+    <string name="activity_player_nama_penyanyi">Nama Penyanyi</string>
+    <string name="play">Play</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="duration_placeholder">0:00</string>
+    <string name="album_art">Album Art</string>
+    <string name="play_pause_button">Play/Pause Button</string>
+    <string name="file_name">File Name</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="unknown_artist">Penyanyi tak dikenali</string>
+
+</resources>
